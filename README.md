@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<p>
+  I am a <strong>third-year Master’s student</strong> at the <strong>Institute of Medical Technology, Peking University</strong>, under the supervision of <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank"><strong>Prof. Yanye Lu</strong></a>. 
+  My research primarily investigates <strong>weakly supervised learning</strong>, <strong>vision foundation models</strong>, and <strong>microscopy image segmentation</strong>, with specific emphasis on <strong>nuclei segmentation</strong> in histopathology and <strong>mitochondria segmentation</strong> in electron microscopy.
+</p>
+
+<p>
+  Currently, I am a full-time <strong>MLLM Algorithm Engineer</strong> at the <strong>Search Algorithm Department</strong> within <strong>Tencent’s WeChat Group (WXG)</strong>. 
+  My research interests focus on the <strong>post-training</strong> and <strong>distributed training</strong> of <strong>Multimodal Large Language Models (MLLMs)</strong>, as well as the application of <strong>Agentic Reinforcement Learning</strong> in search scenarios.
+</p>
+
 <!--
 **WilliamLee30/williamlee30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
